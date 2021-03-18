@@ -32,6 +32,11 @@ Souhait |  Soltion proposé
 ***
 <img src="image/parcourir.jpg" width="400"/>
 
+## schemaBDD
+***
+<img src="image/schemaBDD.png"  width="425"/>
+<img src="image/tableuser.png"  width="425"/>
+
 ## MotDePasseConstruit
 ***
 Code |  Interface
