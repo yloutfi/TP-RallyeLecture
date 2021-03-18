@@ -38,7 +38,7 @@ Code |  Interface
 :-------------------------:|:-------------------------:
 |<img src="image/codemdpconstruit.jpg"  width="425"/> | <img src="image/mdpconstruit.jpg" width="400"/>
 
-## MotDePasse
+## MotDePasseAleatoire
 ***
 Code |  Interface
 :-------------------------:|:-------------------------:
